@@ -41,6 +41,8 @@ A **Vencord** user plugin that merges Discord's **Invisible** status with **Do N
 
 ## 📥 Installation
 
+> Refer to the official guide: [How to Install plugins from here](https://discord.com/channels/1015060230222131221/1054117865239875604) in the Vencord Discord server.
+
 1. Navigate to your Vencord directory.
 2. Clone this repository into your `src/userplugins` folder:
    ```bash
